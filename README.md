@@ -3,21 +3,7 @@ A data science project aimed to explore ways to reduce and optimize the producti
 
 
 
-<details>
-<summary><strong> Contents</strong></summary>
-<ul>
-    <li><a href="#1-executive-summary">1. Executive Summary</a></li>
-    <li><a href="#2-purpose-of-the-project">2. Purpose of the Project</a></li>
-    <li><a href="#3-literature-review">3. Literature Review</a></li>
-    <li><a href="#4-setting-up-the-environment">4. Setting Up the Environment</a></li>
-    <li><a href="#5-phases-after-setting-up-the-envnronment">5. Phases After Setting Up the Environment</a></li>
-    <li><a href="#-findings">6. Findings</a></li>
-    <li><a href="#7-limitaions">7. Limitations</a></li>
-</ul>
-</details>
 
-
-</sdetails>
 
 
 ## Table of Contents
