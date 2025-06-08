@@ -5,6 +5,7 @@ A data science project aimed to explore ways to reduce and optimize the producti
 <details>
 <summary><strong>
 ## Table of Contents</strong></summary>
+
  - [1.Executive Summary](#1-executive-summary)
  - [2. Purpose of the Project](#2-purpose-of-the-project)
  - [3. Literature Review](#3-literature-review)
@@ -12,6 +13,7 @@ A data science project aimed to explore ways to reduce and optimize the producti
  - [5. Phases After Setting Up the Environment](#5-phases-after-setting-up-the-project)
  - [6. Findings](#6-findings)
  - [7. Limitations](#7-limitations)
+ 
 </details>
 
 ## 1. Executive Summary
