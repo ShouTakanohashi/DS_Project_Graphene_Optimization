@@ -27,6 +27,25 @@ A data science project aimed to explore ways to reduce and optimize the producti
 ## 3. Literature Review
 
 
+- Graphene supply chain involves several stages:
+    - Graphene production
+    - Electrode fabrication
+    - Battery assembly
+
+Who are the suppliers of graphene?
+
+What is the current market value of graphene production?
+
+Is graphene used in lithium ion battery production? What is the ecpected growth/decline?
+- That is the core of the project
+
+Where can I find relevat dataset?
+- What kind of dataset(s) would be relevant and beneficial for this project?
+
+
+
+
+
 ## 4. Setting Up the Environment
 
 
