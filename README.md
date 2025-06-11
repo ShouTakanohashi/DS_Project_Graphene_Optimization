@@ -19,10 +19,14 @@ A data science project aimed to explore ways to reduce and optimize the producti
 
 ## 1. Executive Summary
 
+In Progress.
 
 ## 2. Purpose of the Project
 
-
+Aiming to analyze the market value of graphene.
+Aiming to focus on suppliers of graphene
+- Growth of graphene production quantity
+- Price prediction of produced graphene.
 
 ## 3. Literature Review
 
@@ -44,6 +48,8 @@ Where can I find relevat dataset?
 
 
 
+https://www.graphene-info.com/graphene-batteries
+
 
 
 ## 4. Setting Up the Environment
@@ -55,3 +61,8 @@ Where can I find relevat dataset?
 ## 6. Findings
 
 ## 7. Limitaions
+
+
+## 8. Citations
+
+- https://www.graphene-info.com/graphene-batteries
