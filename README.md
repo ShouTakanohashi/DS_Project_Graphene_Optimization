@@ -81,6 +81,17 @@ https://www.graphene-info.com/graphene-batteries
 ## 5. Phases After Setting Up the Envnronment
 
 - Collect and compile robust datasets
+    - Since the data on global market value is fragmented, we first need to find relevant sources, aggregate, and compile them for robust dataset.
+    - To do so, we extract data from the following:
+        - free summaries of reports from market reports, including from Precedence Research, Marketsandmarkets, Grand View Research.
+            - We focus on the market size, CAGR, price ranges, and produciton volume predicitons.
+        - Academic reviews
+            - Papers and publicaitons, such as from Carbon, 2d Materials, 
+        - Industry Sources
+            - Website of suppliers, including NanoXplore and Graphenea, for production capacity and pricing.
+            - Sources including Graphene Flagship
+            - News articles on graphene production breakthroughs (i.e., flash joule heating). 
+
 - Time series analysis
 - etc
 
