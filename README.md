@@ -30,8 +30,23 @@ Aiming to focus on suppliers of graphene
 
 Review the quantity and price of graphene as of 2025.
 
-Quantify the target goal for how much graphene should be produced for large scale commercial application in EV batteries.
-Quantify how much investments and subsidiary should be made on graphene suppliers to enable large scale commercial applications.
+Review the methods to produce graphene as of 2025.
+
+Review the major suppliers of graphene (companies) as of 2025.
+
+Review what kind of graphene is/are applicable for EV batteries.
+
+Review the graphene quality requirement for EV batteries production (if any).
+
+Review how the use of graphene instead of graphite improve performance of battery (if any).
+
+Review the factors that inhibit large-scale production of graphene.
+
+
+Quantify the target goal for how much graphene should be produced for large scale commercial application in EV batteries by 2030 (or 2035 0r 2040).
+
+Quantify how much investments and subsidiary should be made on graphene suppliers to enable large scale commercial applications by 2030 (or 2035 or 2040).
+
 
 ## 3. Literature Review
 
