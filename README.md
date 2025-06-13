@@ -28,6 +28,11 @@ Aiming to focus on suppliers of graphene
 - Growth of graphene production quantity
 - Price prediction of produced graphene.
 
+Review the quantity and price of graphene as of 2025.
+
+Quantify the target goal for how much graphene should be produced for large scale commercial application in EV batteries.
+Quantify how much investments and subsidiary should be made on graphene suppliers to enable large scale commercial applications.
+
 ## 3. Literature Review
 
 
