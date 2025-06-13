@@ -46,8 +46,11 @@ Is graphene used in lithium ion battery production? What is the ecpected growth/
 Where can I find relevat dataset?
 - What kind of dataset(s) would be relevant and beneficial for this project?
 
+There are challenges in scaling up the graphene production.
+- Technological
+- Cost
 
-
+https://www.americanscientist.org/article/mass-producing-graphene 
 https://www.graphene-info.com/graphene-batteries
 
 
