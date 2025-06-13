@@ -80,8 +80,13 @@ https://www.graphene-info.com/graphene-batteries
 
 ## 5. Phases After Setting Up the Envnronment
 
+- Collect and compile robust datasets
+- Time series analysis
+- etc
 
 ## 6. Findings
+
+
 
 ## 7. Limitaions
 
