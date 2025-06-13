@@ -50,6 +50,40 @@ Quantify how much investments and subsidiary should be made on graphene supplier
 
 ## 3. Literature Review
 
+1. History of graphene
+    1. Discovery and research
+        Graphene was first discovered by Professor Andre Geim and Professor Kostya Novoselov from University of Manchester in 2003, announced in 2004 (Nobel Prize).
+        https://www.scienceandindustrymuseum.org.uk/objects-and-stories/graphene#:~:text=First%20isolated%20at%20the%20University,200%20times%20stronger%20than%20steel.
+        Graphene  
+
+
+| Year | Description |
+|------|------------ |
+| 2004 | First isolated by Andre Geim and Kostya Novoselov |
+| 2005 | ABC |
+| 2006 | ABC |
+| 2007 | ABC |
+| 2008 | ABC |
+| 2009 | ABC |
+| 2010 | ABC |
+| 2011 | ABC |
+| 2012 | ABC |
+| 2013 | ABC |
+| 2014 | ABC |
+| 2015 | ABC |
+| 2016 | ABC |
+| 2017 | ABC |
+| 2018 | ABC |
+| 2019 | ABC |
+| 2020 | ABC |
+| 2021 | ABC |
+| 2022 | ABC |
+| 2023 | ABC |
+| 2024 | ABC |
+
+    2. Commercialization
+
+
 
 - Graphene supply chain involves several stages:
     - Graphene production
