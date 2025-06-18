@@ -155,6 +155,17 @@ https://www.americanscientist.org/article/mass-producing-graphene
 https://www.graphene-info.com/graphene-batteries
 
 
+Data collection:
+- difficult to do data collection and validation on global market value of graphene
+- may need to narrow down the scope to company-level analysis
+
+
+
+| Company | Year Founded | Headquarters | Produciton Start | Production Method |
+| ------- | ------------ | ------------ | ---------------- | ----------------- |
+| NanoXplore | 2011 | Montreal, Canada | Shortly after 2011 | (To be added soon) |
+| 
+
 
 ## 4. Setting Up the Environment
 
@@ -191,6 +202,7 @@ https://www.graphene-info.com/graphene-batteries
             - drastically differing numbers, coming from differences in methodologies used in sources
         - Thus, it is also difficult to validate the data and ensure data consistency
     - We pivoted to company-level analysis to ensure transparency, consistency, accessibility and relevance of data.
+
 
 ## 8. Citations
 
